@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "StackedAutoencoderClassification", "StackedAutoencoderClassification\StackedAutoencoderClassification.pyproj", "{1DA6ADDC-8D00-498A-A955-392F52B41720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DA6ADDC-8D00-498A-A955-392F52B41720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA6ADDC-8D00-498A-A955-392F52B41720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9C76D54-1290-459E-A8C3-8772DFEB6351}
+	EndGlobalSection
+EndGlobal

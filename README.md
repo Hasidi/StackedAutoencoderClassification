@@ -9,3 +9,7 @@ Evaluate classification accuracy.
 Build and evaluate an ordinal classifier that consists of two models: 
     a. binary classifier of G1 vs. S+G2/M  
     b. binary classifier of G1+S vs. G2/M
+
+![Image description](https://github.com/Hasidi/StackedAutoencoderClassification/blob/master/Autoencoder_scheme_A.png)
+
+![Image description](https://github.com/Hasidi/StackedAutoencoderClassification/blob/master/Autoencoder_scheme_B.png)
